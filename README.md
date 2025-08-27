@@ -56,7 +56,7 @@ A comprehensive weight loss progress tracking application built with Next.js and
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/weight-loss-tracker.git
+   git clone https://github.com/petervirtech/weight-loss-tracker.git
    cd weight-loss-tracker
    ```
 
